@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-I'm **Sujata Bijalwan**
+I'm **Priyanshu Negi**
 
 •Currently pursuing `B.Tech.(CSE)`
 
