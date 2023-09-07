@@ -19,7 +19,7 @@ I'm **Sujata Bijalwan**
 ![Visitor Count](https://profile-counter.glitch.me/priyanshunegi04/count.svg)
 
 
-<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=spriyanshunegi04&show_icons=true&theme=great-gatsby" alt="Priyanshu" />
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=priyanshunegi04&show_icons=true&theme=great-gatsby" alt="Priyanshu" />
   
   
   <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshunegi04&theme=great-gatsby" alt="Priyanshu" /></p>
