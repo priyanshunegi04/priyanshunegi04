@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**priyanshunegi04/priyanshunegi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm **Sujata Bijalwan**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•Currently pursuing `B.Tech.(CSE)`
+
+•**Everyday trying to become an upgraded version of myself .**
+
+- 🔭 I’m currently working on word cloud
+- 🌱 I’m currently learning Data structures and algorithms 
+- 💬 Let's connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/sujata-bijalwan-7bab75229/)
+- 📫 How to reach me: sujatabijalwan057@gmail.com
+- 😄 Pronouns: he/him
+
+
+### Visiter counter :
+
+![Visitor Count](https://profile-counter.glitch.me/priyanshunegi04/count.svg)
+
+
+<p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=spriyanshunegi04&show_icons=true&theme=great-gatsby" alt="Priyanshu" />
+  
+  
+  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshunegi04&theme=great-gatsby" alt="Priyanshu" /></p>
