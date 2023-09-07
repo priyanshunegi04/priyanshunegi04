@@ -8,9 +8,9 @@ I'm **Priyanshu Negi**
 •**Everyday trying to become an upgraded version of myself .**
 
 - 🔭 I’m currently working on word cloud
-- 🌱 I’m currently learning Data structures and algorithms 
-- 💬 Let's connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/sujata-bijalwan-7bab75229/)
-- 📫 How to reach me: sujatabijalwan057@gmail.com
+- 🌱 I’m proficient Data structures and algorithms 
+- 💬 Let's connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/priyanshu-negi-4080aa19b/)
+- 📫 How to reach me: priyanshunegi966@gmail.com
 - 😄 Pronouns: he/him
 
 
